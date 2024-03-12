@@ -1,0 +1,35 @@
+{
+    "name": "Foley's One Stop / Foley Rentals / The Tire Shop",
+    "short_name": "Foley's One Stop",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "A website for Foley's One Stop, a business located in Carthage, Texas focused on equipment, party, lawn care, tire repairs and service, automotive service, and more. Come visit us at 2178 SE Loop, Carthage, Texas, 75633 or give us a call at 903-693-6525.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
